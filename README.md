@@ -3,14 +3,14 @@
 </div>
 <br>
 
-<h1 align="center">Hi, I'm Girendra 👋</h1>
+<h1>Hi, I'm Girendra 👋</h1>
 
-<p align="center">
+<p>
   I'm a <b>Junior Developer</b> and still learning about Information Technology.
 </p>
 
-<p align="center">
-  📧 <b>Send me at:</b> <a href="mailto:kadekgirendra@gmail.com">kadekgirendra@gmail.com</a>
+<p>
+<b>Send me at:</b> <a href="mailto:kadekgirendra@gmail.com">kadekgirendra@gmail.com</a>
 </p>
 
 <br>
