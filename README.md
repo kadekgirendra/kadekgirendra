@@ -3,19 +3,17 @@
 </div>
 <br>
 
-<h1>Hi, I'm Girendra 👋</h1>
+<h1>Hi, I'm Giren 👋</h1>
 
 <p>
-  I'm a <b>Junior Developer</b> and still learning about Information Technology.
+Junior Developer passionate about Web Development, Mobile Development, and still learning new technologies.
 </p>
 
 <p>
 <b>Send me at:</b> <a href="mailto:kadekgirendra@gmail.com">kadekgirendra@gmail.com</a>
 </p>
 
-<br>
-
-<h3> Languages</h3>
+<h3>Languages</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
