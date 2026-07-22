@@ -1,25 +1,10 @@
-<h1 align="center">Hi 👋, I'm jack</h1>
-<h3 align="center">A passionate frontend from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadekgirendra&label=Profile%20views&color=0e75b6&style=flat" alt="kadekgirendra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadekgirendra" alt="kadekgirendra" /></a> </p>
-
-- 📫 How to reach me **kadekgirendra@gmail.com**
-
-- ⚡ Fun fact **gamers ganteng idaman.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kadekgirendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kadekgirendra" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadekgirendra&show_icons=true&locale=en&layout=compact" alt="kadekgirendra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadekgirendra&show_icons=true&locale=en" alt="kadekgirendra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadekgirendra&" alt="kadekgirendra" /></p>
-
+<div align="center">
+  <img src="./readmebox.svg" alt="Profile Box" width="100%" />
+</div>
+<br>
+<h1>Hi, I'm Girendra 👋 <h1>
+I'm junior develloper and still learning about IT
+Send me at: kadekgirendra@gmail.com
+Languages:  [ HTML, CSS, JavaScript, PHP, Java, Python, TypeScript ]
+Frameworks: [ Laravel, Bootstrap, Tailwind, Node.Js, React, Android SDK ]
+Databases:  [ MySQL, MariaDB, SQLite ]
