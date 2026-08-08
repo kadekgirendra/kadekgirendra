@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1>Hi, I'm Giren 👋</h1>
+<h2>Hi, I'm Giren 👋</h2>
 
 <p>
 Junior Developer passionate about Web Development, Mobile Development, and still learning new technologies.
