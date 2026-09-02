@@ -55,6 +55,7 @@
 </div>
 
 <br/><br/>
+
 ## Languages & Tools
 
 <div align="center">
@@ -74,8 +75,6 @@
 
 </div>
 
-
-
 ---
 
 <br/><br/>
@@ -93,6 +92,8 @@
 </div>
 
 ---
+
+<br/><br/>
 
 ## Contribution Graph
 
