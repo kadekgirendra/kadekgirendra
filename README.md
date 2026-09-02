@@ -26,10 +26,9 @@
 <!-- PROFILE-STATS:START -->
 <pre>
 ◈  Name        →  kadekgirendra
-◈  Origin      →  Indonesia
-◈  Repositories →  0
-◈  Followers   →  0
-◈  Following   →  0
+◈  Repositories →  13
+◈  Followers   →  7
+◈  Following   →  8
 ◈  Contact     →  kadekgirendra@gmail.com
 </pre>
 <!-- PROFILE-STATS:END -->
