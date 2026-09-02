@@ -35,11 +35,11 @@ end_marker = "<!-- PROFILE-STATS:END -->"
 
 new_stats = f"""<!-- PROFILE-STATS:START -->
 <pre>
-◈  Name        →  {name}
+◈  Name         →  {name}
 ◈  Repositories →  {repositories}
-◈  Followers   →  {followers}
-◈  Following   →  {following}
-◈  Contact     →  kadekgirendra@gmail.com
+◈  Followers    →  {followers}
+◈  Following    →  {following}
+◈  Contact      →  kadekgirendra@gmail.com
 </pre>
 <!-- PROFILE-STATS:END -->"""
 
