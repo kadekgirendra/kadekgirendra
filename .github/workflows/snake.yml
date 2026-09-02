@@ -4,25 +4,36 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kadekgirendra
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=white
 
-      - name: Push Snake to Output Branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "update contribution snake"
-          add: "dist/github-contribution-grid-snake.svg"
-          new_branch: output
+      - name: Deploy Snake to Output Branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git clone --single-branch --branch output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output
+
+          rm -rf output/*
+          cp -R dist/* output/
+
+          cd output
+          git add .
+          git commit -m "update contribution snake" || echo "No changes to commit"
+          git push origin output
