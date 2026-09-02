@@ -23,6 +23,7 @@ with urllib.request.urlopen(request) as response:
 repositories = data["public_repos"]
 followers = data["followers"]
 following = data["following"]
+name = data["name"] or USERNAME
 
 # Baca README
 with open(README, "r", encoding="utf-8") as file:
@@ -34,7 +35,7 @@ end_marker = "<!-- PROFILE-STATS:END -->"
 
 new_stats = f"""<!-- PROFILE-STATS:START -->
 <pre>
-◈  Name        →  {USERNAME}
+◈  Name        →  {name}
 ◈  Repositories →  {repositories}
 ◈  Followers   →  {followers}
 ◈  Following   →  {following}
