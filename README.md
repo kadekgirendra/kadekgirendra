@@ -23,11 +23,16 @@
 
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
+<!-- PROFILE-STATS:START -->
 <pre>
-◈  Name     →  Jack
-◈  Origin   →  Indo
-◈  Contact  →  kadekgirendra@gmail.com
+◈  Name        →  kadekgirendra
+◈  Origin      →  Indonesia
+◈  Repositories →  0
+◈  Followers   →  0
+◈  Following   →  0
+◈  Contact     →  kadekgirendra@gmail.com
 </pre>
+<!-- PROFILE-STATS:END -->
 
 </div>
 
@@ -48,7 +53,6 @@
 
 </tr>
 </table>
-
 </div>
 
 <br/><br/>
