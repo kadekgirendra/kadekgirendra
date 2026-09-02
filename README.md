@@ -25,11 +25,11 @@
 
 <!-- PROFILE-STATS:START -->
 <pre>
-◈  Name        →  kadekgirendra
+◈  Name         →  kadekgirendra
 ◈  Repositories →  13
-◈  Followers   →  7
-◈  Following   →  8
-◈  Contact     →  kadekgirendra@gmail.com
+◈  Followers    →  7
+◈  Following    →  8
+◈  Contact      →  kadekgirendra@gmail.com
 </pre>
 <!-- PROFILE-STATS:END -->
 
