@@ -23,17 +23,30 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=white
 
-      - name: Deploy Snake to Output Branch
+      - name: Deploy Snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git clone --single-branch --branch output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output
+          git clone https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git repo
 
-          rm -rf output/*
-          cp -R dist/* output/
+          cd repo
 
-          cd output
-          git add .
+          if git ls-remote --exit-code --heads origin output; then
+            echo "Branch output already exists"
+            git checkout output
+          else
+            echo "Creating branch output"
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+
+          cp ../dist/github-contribution-grid-snake.svg .
+
+          git add github-contribution-grid-snake.svg
+
           git commit -m "update contribution snake" || echo "No changes to commit"
+
           git push origin output
