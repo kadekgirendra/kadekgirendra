@@ -57,10 +57,8 @@
 <br/><br/>
 
 ## Languages & Tools
-
 <div align="center">
-
-<p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="5">
   <img src="https://cdn.simpleicons.org/react/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/php/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,8 +69,7 @@
   <img src="https://cdn.simpleicons.org/figma/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/laravel/FFFFFF" width="32">
-</p>
-
+</marquee>
 </div>
 
 ---
