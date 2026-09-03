@@ -1,9 +1,11 @@
 
 
 <div align="center">
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=36&pause=1000&color=FFFFFF&width=435&lines=Wellcome;Frontend+Developer&center=true&vCenter=true&repeat=true&align=center" alt="Typing SVG" />
   </a>
+  
 </div>
 
 
@@ -17,6 +19,7 @@
 <div align="center">
 
 <table width="100%">
+  
 <tr>
 
 <td align="left" width="50%">
@@ -51,7 +54,9 @@
 </td>
 
 </tr>
+
 </table>
+
 </div>
 
 <br/><br/>
@@ -78,10 +83,12 @@
 
 ## Statistics
 <div align="center">
+  
 <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
 <img src="https://streak-stats.demolab.com?user=kadekgirendra&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 <br/>
+
 </div>
 
 <br/>
