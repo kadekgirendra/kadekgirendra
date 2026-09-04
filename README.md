@@ -68,6 +68,7 @@
   <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/php/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/node.js/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/next.js/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
