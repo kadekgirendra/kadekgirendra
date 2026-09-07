@@ -28,10 +28,10 @@
 
 <!-- PROFILE-STATS:START -->
 <pre>
-◈  Name         →  Jack
-◈  Repositories →  13
-◈  Followers    →  8
-◈  Following    →  8
+◈  Name         →  Loading...
+◈  Repositories →  Loading...
+◈  Followers    →  Loading...
+◈  Following    →  Loading...
 ◈  Contact      →  kadekgirendra@gmail.com
 </pre>
 <!-- PROFILE-STATS:END -->
