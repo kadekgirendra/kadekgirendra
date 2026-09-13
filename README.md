@@ -66,7 +66,7 @@
 <div align="center">
 <p align="center">
   <img src="https://cdn.simpleicons.org/react/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vue/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vue.js/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/php/FFFFFF" width="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
