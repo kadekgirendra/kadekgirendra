@@ -29,7 +29,7 @@
 <!-- PROFILE-STATS:START -->
 <pre>
 ◈  Name         →  Jack
-◈  Repositories →  14
+◈  Repositories →  13
 ◈  Followers    →  14
 ◈  Following    →  13
 ◈  Contact      →  kadekgirendra@gmail.com
