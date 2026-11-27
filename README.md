@@ -30,7 +30,7 @@
 <pre>
 ◈  Name         →  Jack
 ◈  Repositories →  13
-◈  Followers    →  12
+◈  Followers    →  11
 ◈  Following    →  13
 ◈  Contact      →  kadekgirendra@gmail.com
 </pre>
